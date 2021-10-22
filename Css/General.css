@@ -1,0 +1,105 @@
+﻿body {
+    overflow:hidden;
+}
+#form1 {
+    width: 100%;
+    height: 100%;
+    font-family: Calibri;
+    overflow: unset;
+}
+
+a {
+    text-decoration: none;
+}
+
+#Principal {
+    position: absolute;
+    margin-top: 0;
+    margin-left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: unset;
+}
+
+#Formulario {
+    width: 50%;
+    height: 55%;
+    box-shadow: #808080 2px 2px 2px 1px;
+    border-radius: 6px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+    overflow: unset;
+}
+
+#titulo {
+    width: 100%;
+    height: 10%;
+    font-size:30px;
+    font-weight:bolder;
+    text-align:center;
+    padding-top:10px;
+    color:#808080;
+}
+
+#submit {
+    width: 100%;
+    height: 10%;
+}
+
+#text {
+    width: 100%;
+    height: 75%;
+    padding: 20px 20px;
+}
+
+#txtConte {
+    width: 94%;
+    height: 85%;
+}
+
+#buttonblue {
+    resize: both;
+}
+
+.submit {
+    width: 100%;
+    height: 10%;
+}
+
+#buttonblue {
+    color: #fff;
+}
+
+#buttonDiv {
+    margin-top:-50px;
+    width: 120px;
+    height: 10px;
+    background: #4ea6e4;
+    padding: 10px 0px 20px 50px;
+    border-radius: 6px;
+    box-shadow: #3e97d8 2px 2px 0px 1px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size:20px;
+    font-weight:bolder;
+    cursor:pointer;
+}
+
+
+#CantPalab {
+    margin-top: 20px;
+    width: 250px;
+    height: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 20px 20px 20px 20px;
+    overflow: auto;
+    box-shadow: #808080 2px 2px 2px 1px;
+}
+
+#Grilla{
+    margin-left:auto;
+    margin-right:auto;
+}
